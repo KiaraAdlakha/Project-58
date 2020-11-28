@@ -1,0 +1,47 @@
+body
+{
+    padding:50px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+#p1
+{
+    color: fuchsia;
+}
+#p4
+{
+    border: solid;
+    border-color: aquamarine;
+    color:coral;
+    font-size:80px;
+}
+img
+{
+  height: 400px;
+    width: 400px;
+}
+#p5
+{
+  border-bottom: Solid;
+    border-bottom-color: black;
+}
+.menu
+{
+    list-style: none;
+    font-family: cursive;
+    position: absolute;
+    top: 1px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+.l1
+{
+ float: left;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 9px;
+padding-left: 9px;
+}
